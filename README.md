@@ -18,7 +18,7 @@
 - Add this difference to the sample to generate a new synthetic example in feature space
 - Continue on with next nearest neighbour up to user-defined number
 
-# SMOTE using library
+# SMOTE using library - 'imblearn.over_sampling'
 
 - The Python implementation of SMOTE actually comes in its own library (outside Scikit-Learn) which can be installed as follows:
 
